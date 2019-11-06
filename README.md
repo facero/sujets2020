@@ -6,7 +6,7 @@ Ce projet se propose de transformer la façon dont nous pouvons analyser les don
 
 L'objectif scientifique est de pouvoir mesurer à petite échelle spatiale les paramètres physiques sous jacents (indice spectral de l'émission synchrotron, densitén, température et abondance du gaz chaud) pour caractériser l'efficacité d'accélération dans différentes conditions environementales. 
 
-Pour plus d'informations, lire la description du sujet de stage ici ([PDF]()) et du sujet de thèse ici ([PDF]()).
+Pour plus d'informations, lire la description du sujet de stage ici ([PDF](Sujet-stage-2020-AdvTools-FR.pdf)) et du sujet de thèse ici ([PDF](Sujet-these-2020-AdvTools-FR.pdf)).
 
 ## Références: 
 Cosmic microwave background reconstruction from WMAP and Planck PR2 data; [Bobin et al., 2016](https://ui.adsabs.harvard.edu/abs/2016A%26A...591A..50B/abstract) <br/>
