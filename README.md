@@ -8,6 +8,8 @@ L'objectif scientifique est de pouvoir mesurer à petite échelle spatiale les p
 
 Pour plus d'informations, lire la description du sujet de stage ici ([PDF](Sujet-stage-2020-AdvTools-FR.pdf)) et du sujet de thèse ici ([PDF](Sujet-these-2020-AdvTools-FR.pdf)).
 
+Pour postuler, envoyer CV par email (fabio acero at cea fr) avant le 15 décembre !
+
 ## Références: 
 Cosmic microwave background reconstruction from WMAP and Planck PR2 data; [Bobin et al., 2016](https://ui.adsabs.harvard.edu/abs/2016A%26A...591A..50B/abstract) <br/>
 Novel method for component separation of extended sources in X-ray astronomy; [Picquenot, Acero, Bobin, Maggi, Ballet & Pratt, 2019](https://ui.adsabs.harvard.edu/abs/2019A&A...627A.139P). 
