@@ -1,5 +1,12 @@
-# Proposition de sujets de recherche en 2020
-Liste de sujets de stage de Master 2 et de thèse sur l'étude des vestiges de supernova en rayons X.
+## Internship/PhD subjects at CEA/Saclay: New multi-dimensional analysis methods for X-rays
+For each photon the position, energy, and time of arrival is recorded by the X-ray satellite. Therefore X-ray data are multidimensional (X, Y, Energy, Time) by nature.  Here we propose to develop novel techniques to fully exploit the multidimensional nature of the data by combining blind source separation technique with feature learning.
+The internship will take place at the astronomy department (http://irfu.cea.fr/dap/) can start mid-march for 3-5 months. 
+
+If you want to know more, read the full subject description here in english:  [PDF](Sujet-these-2020-AdvTools-EN.pdf)
+If you have questions or want to apply, contact me by email (fabio acero at cea fr) before December 15th !
+
+## Proposition de sujets de recherche en 2020 au CEA/Saclay
+Sujets de stage de Master 2 et de thèse sur l'étude des vestiges de supernova en rayons X.
 
 Ce projet se propose de transformer la façon dont nous pouvons analyser les données en rayons X en se basant sur l’expertise acquise par le groupe de mathématiques appliquées au sein de notre laboratoire et en particulier sur les méthodes d’apprentissage à l’aveugle (blind source separation) en exploitant le caractère multidimensionelle (RA, Dec, Energie) des données.
 ![X-ray data cubes](https://github.com/facero/IFU/blob/master/Cas_RA-DEC-Energy-cube.png)
